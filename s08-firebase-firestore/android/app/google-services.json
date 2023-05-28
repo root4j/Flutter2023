@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "706828599485",
+    "project_id": "proyecto-scala",
+    "storage_bucket": "proyecto-scala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706828599485:android:438ad212ebc3e96ec437d4",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706828599485-7csmkpfa3ebsuukrjbg6psnpbaid63pc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_app",
+            "certificate_hash": "5baf71ca680d81de11134bb1f4d4d8d24548c2bc"
+          }
+        },
+        {
+          "client_id": "706828599485-59avk8i36ib5qjgvkc39o7ih0gm4ib2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDl91KEMKkLVZqoWSggRIbROcKd7_A1AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706828599485-59avk8i36ib5qjgvkc39o7ih0gm4ib2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
